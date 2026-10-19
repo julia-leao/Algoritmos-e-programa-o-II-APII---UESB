@@ -1,1 +1,5 @@
-# Algoritmos-e-programa-o-II-APII---UESB
+# Algoritmos e Programação(API) - UESB
+
+Repositório criado a fim de armazenar códigos desenvolvidos durante meu 2° semestre de faculdade.
+
+**Linguagem:** Todos os códigos aqui serão desenvolvidos em Java.
